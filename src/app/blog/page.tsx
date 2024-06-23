@@ -20,14 +20,13 @@ export default function blog() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div>
                 <h2 className="text-xl font-bold text-gray-800 mb-4">
-                  As “Developers” indeed we are the student of the world
+                    Agile Software Development คือปรัชญา
                 </h2>
                 <p className="text-gray-600 mb-10">
-                  ในฐานะนักพัฒนาซอฟต์แวร์
-                  แท้ที่จริงแล้วเราก็คือนักเรียนของโลกใบนี้เสมอ
+                    ความแตกต่างของปรัชญาและกรอบปฏิบัติ
                 </p>
                 <Link
-                  href="/blog/as-developers-indeed-we-are-the-student-of-the-world"
+                  href="https://medium.com/agile-development-in-thai/agile-software-development-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2-147437f01d5b"
                   className="text-blue-500 hover:text-blue-700 font-bold"
                 >
                   Read More
@@ -35,7 +34,7 @@ export default function blog() {
               </div>
               <div>
                 <img
-                  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*2tYSCDFH-frWWb1veAV86Q.png"
+                  src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*2S-5-Wekzs8aKUKcDB_8lQ.png"
                   alt="Blog post image"
                   className="w-full h-48 object-cover mb-4"
                 />
@@ -48,13 +47,13 @@ export default function blog() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div>
                 <h2 className="text-xl font-bold text-gray-800 mb-4">
-                  The Art of Simplicity: Python’s Syntactic Sugar?
+                    First Principles Thinking สำหรับ Developer
                 </h2>
                 <p className="text-gray-600 mb-10">
-                  “ถ้าเราพูดถึง Code ที่ดี เราจะให้คำนิยามมันว่าอะไร?”
+                  
                 </p>
                 <Link
-                  href="/blog/the-art-of-simplicity-pythons-syntactic-sugar"
+                  href="https://goangle.medium.com/first-principles-thinking-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-developer-8ba4afab1496"
                   className="text-blue-500 hover:text-blue-700 font-bold"
                 >
                   Read More
@@ -62,7 +61,7 @@ export default function blog() {
               </div>
               <div>
                 <img
-                  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*G-09XWU9P6bPCgSCu2wQKg.png"
+                  src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*utVMQCIDwTPxp-CChhS_9g.png"
                   alt="Blog post image"
                   className="w-full h-48 object-cover mb-4"
                 />
