@@ -8,7 +8,7 @@ config.autoAddCss = false;
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "John Farmer",
+  title: "Mew",
   description: "Example personal website",
 };
 
