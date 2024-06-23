@@ -18,7 +18,7 @@ const Skill = (props: Props) => {
     <Card title="Skill">
       <div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
         <div className="text-center">
-          <FontAwesomeIcon icon={faPhp} className="h-10" />
+          <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png"/>
           <p>PHP</p>
         </div>
         <div className="text-center">
