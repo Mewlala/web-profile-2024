@@ -10,6 +10,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Card from "./common/Card";
+import { faC } from "@fortawesome/free-solid-svg-icons/faC";
 
 type Props = {};
 
@@ -35,7 +36,7 @@ const Skill = (props: Props) => {
           <p>JS</p>
         </div>
         <div className="text-center">
-          <img src="https://cdn-icons-png.flaticon.com/128/3665/3665899.png" width="60%" />
+          <FontAwesomeIcon icon={faC} className="h-10" />
           <p>C</p>
         </div>
       </div>
